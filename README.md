@@ -1,8 +1,3 @@
-# Stability Analysis of Boundary Layer Flow  
-### M.Tech Thesis — IIT Kanpur  
-Supervisor: Dr. Dipin S. Pillai  
-Duration: Jan’25 – Present
-
 ## Overview
 This project focuses on analyzing the stability of boundary layer flows and understanding how disturbances grow and eventually lead to transition to turbulence. The work includes generating base-flow profiles, performing modal stability analysis, and computing transient energy growth for different shear flows.
 
